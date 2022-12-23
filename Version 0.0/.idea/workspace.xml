@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b682525d-118f-40a5-9272-5343ed26c0e6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dhzhlHOobDzPSp2d5qsLZ3Bb6s" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Код" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Платформер" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Код.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Код" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b682525d-118f-40a5-9272-5343ed26c0e6" name="Default Changelist" comment="" />
+      <created>1592892233704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592892233704</updated>
+      <workItem from="1592892254110" duration="2559000" />
+      <workItem from="1592909282200" duration="6821000" />
+      <workItem from="1592923224971" duration="3726000" />
+      <workItem from="1592976847603" duration="2681000" />
+      <workItem from="1592986698989" duration="138000" />
+      <workItem from="1593017237135" duration="395000" />
+      <workItem from="1593076074225" duration="681000" />
+      <workItem from="1593094911589" duration="3816000" />
+      <workItem from="1593155079759" duration="561000" />
+      <workItem from="1593170463025" duration="1109000" />
+      <workItem from="1593279328119" duration="348000" />
+      <workItem from="1593337100589" duration="434000" />
+      <workItem from="1593351496614" duration="3600000" />
+      <workItem from="1593355500358" duration="206000" />
+      <workItem from="1593365069863" duration="776000" />
+      <workItem from="1593418338403" duration="610000" />
+      <workItem from="1593424156378" duration="3327000" />
+      <workItem from="1593430707129" duration="12297000" />
+      <workItem from="1593531607279" duration="416000" />
+      <workItem from="1593542334064" duration="1157000" />
+      <workItem from="1593595390767" duration="4919000" />
+      <workItem from="1593615091542" duration="2355000" />
+      <workItem from="1593694869064" duration="1082000" />
+      <workItem from="1593700325463" duration="2619000" />
+      <workItem from="1593787041621" duration="3595000" />
+      <workItem from="1593803656493" duration="450000" />
+      <workItem from="1593852952545" duration="628000" />
+      <workItem from="1593857013018" duration="1144000" />
+      <workItem from="1593943365083" duration="66000" />
+      <workItem from="1594110073696" duration="1671000" />
+      <workItem from="1594143102277" duration="693000" />
+      <workItem from="1594199028072" duration="585000" />
+      <workItem from="1594225707018" duration="778000" />
+      <workItem from="1596893312155" duration="79000" />
+      <workItem from="1597931477760" duration="148000" />
+      <workItem from="1598961257249" duration="386000" />
+      <workItem from="1598963812258" duration="237000" />
+      <workItem from="1598964121332" duration="10000" />
+      <workItem from="1599143756068" duration="74000" />
+      <workItem from="1599143900952" duration="162000" />
+      <workItem from="1604741976447" duration="37000" />
+      <workItem from="1604742021506" duration="94000" />
+      <workItem from="1609181489183" duration="317000" />
+      <workItem from="1610378696114" duration="2399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="Код Coverage Results" MODIFIED="1610381265378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
