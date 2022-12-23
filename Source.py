@@ -5,19 +5,19 @@ import winsound
 import random
 
 
-lives_up = '1up1.wav'
-key_up = 'Blip.wav'
-coin_get = 'Coin.wav'
-hit_enemy = 'Hit4.wav'
-hit_player = 'Hit3.wav'
-lost = 'Lose1.wav'
-jump_snd = 'Jump4.wav'
+img_dir = path.join(path.dirname(__file__), 'img')
+snd_dir = path.join(path.dirname(__file__), 'snd')
+
+lives_up = path.join(snd_dir, '1up1.wav')
+key_up = path.join(snd_dir, 'Blip.wav')
+coin_get = path.join(snd_dir, 'Coin.wav')
+hit_enemy = path.join(snd_dir, 'Hit4.wav')
+hit_player = path.join(snd_dir, 'Hit3.wav')
+lost = path.join(snd_dir, 'Lose1.wav')
+jump_snd = path.join(snd_dir, 'Jump4.wav')
 
 green_lvl = True
 ice_lvl = False
-
-img_dir = path.join(path.dirname(__file__), 'img')
-snd_dir = path.join(path.dirname(__file__), 'snd')
 
 count_R = 0
 count_L = 0
